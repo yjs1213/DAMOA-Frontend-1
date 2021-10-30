@@ -10,20 +10,22 @@
 
   height: 160px;
   position: relative;
+}
 
-  font-size: 24px;
+#main_header > nav > * {
+  top: 50px;
 }
 
 #title {
   position: absolute;
   left: 20px;
-  top: 30px;
+  font-size: 40px;
 }
 
 #menu {
   position: absolute;
   right: 0;
-  top: 30px;
+  font-size: 24px;
 }
 
 /* 타이틀 */
